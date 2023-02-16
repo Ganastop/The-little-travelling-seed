@@ -1,9 +1,10 @@
 # The-little-travelling-seed
 Scene 1
- 
+
+
 The game starts by pressing the green Scratch button and the appearance of seeds in a field of sunflowers to the sound of opening music. In the scene there are point and volume counts. The seeds float and when the music ends the child blows as loud as they can into the microphone to activate the seeds and get them to move to travel. The volume is measured in the variable "volume". The child in the scene is the hero - a cloud that changes shape when he blows. When the child decides by pressing the space bar, he is transported to the second scene.
 
-2nd scene
+Scene 2
 
  
 The second scene shows the cloud blowing and the seeds travelling. The harder the child blows, the more the seeds move. When the child decides, pressing the space bar takes the child to the third scene.
