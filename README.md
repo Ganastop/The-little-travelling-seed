@@ -21,4 +21,4 @@ In the fourth scene, the sunflowers that have bloomed, a hand and sunflowers tha
 Each player counts and records their points.
 The game can also be accompanied by story telling.
 
-Translated with www.DeepL.com/Translator (free version)
+
